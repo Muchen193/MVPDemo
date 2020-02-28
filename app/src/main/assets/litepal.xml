@@ -1,0 +1,7 @@
+<litepal>
+    <dbname value = "name_pass"/>
+    <version value ="1" />
+    <list>
+        <mapping class = "com.example.mvpdemo.bean.User"/>
+    </list>
+</litepal>
